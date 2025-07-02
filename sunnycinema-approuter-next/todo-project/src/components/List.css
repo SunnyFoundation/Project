@@ -1,0 +1,11 @@
+.list input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0px;
+}
+
+.list input:focus {
+    outline: none;
+    border-bottom: 1px solid #000;
+}
