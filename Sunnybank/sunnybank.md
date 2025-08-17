@@ -41,5 +41,5 @@ contract SunnyBank {
 
 ## What I learned 
 * payable  
-  ```when function get ether use payable but function send ether not use payable keyword ```  
+  ```when contract get ether use payable but contract send ether not use payable keyword ```  
     
